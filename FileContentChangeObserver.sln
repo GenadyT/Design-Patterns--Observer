@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileContentChangeObserver", "FileContentChangeObserver\FileContentChangeObserver.csproj", "{370667C1-8B6E-4F9E-8BCD-24A32946DD5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManager", "FileWatcher\FileManager.csproj", "{4CBEC6BB-C7CF-4677-87A3-CF85B37BA2D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{370667C1-8B6E-4F9E-8BCD-24A32946DD5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370667C1-8B6E-4F9E-8BCD-24A32946DD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370667C1-8B6E-4F9E-8BCD-24A32946DD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370667C1-8B6E-4F9E-8BCD-24A32946DD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CBEC6BB-C7CF-4677-87A3-CF85B37BA2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBEC6BB-C7CF-4677-87A3-CF85B37BA2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBEC6BB-C7CF-4677-87A3-CF85B37BA2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBEC6BB-C7CF-4677-87A3-CF85B37BA2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C60E8DAA-48DA-458E-82CA-3A2AC4BB8B65}
+	EndGlobalSection
+EndGlobal
